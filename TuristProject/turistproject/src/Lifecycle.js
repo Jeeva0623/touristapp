@@ -8,7 +8,7 @@ import React, { useEffect } from "react";
 //         <h1>this is function</h1>
 //     )
 // };
-
+//test
  class Lifecycle extends React.Component{
     myName="jeeva";
     nameList=[
